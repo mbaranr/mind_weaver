@@ -35,14 +35,14 @@ Refer to [screenshots](#screenshots).
 Unix based systems:
 
 ```
-cd scripts
-./run.sh
+$ cd scripts
+$ ./run.sh
 ```
 
 ## Credits
 
-* [m4mbo](https://github.com/m4mbo) ![ppy](assets/Items/bug.png) - Game idea, Art, Code
-* [RedHatParichay](https://github.com/RedHatParichay) - UI related code
+* [m4mbo](https://github.com/m4mbo) ![ppy](assets/Items/bug.png) - Game idea, art, code.
+* [RedHatParichay](https://github.com/RedHatParichay) - UI code.
 
 ## Screenshots
 
