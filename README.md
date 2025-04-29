@@ -41,7 +41,7 @@ $ ./run.sh
 
 ## Credits
 
-* [mbaranr](https://github.com/m4mbo) ![ppy](assets/Items/bug.png) - Game idea, art, code.
+* [mbaranr](https://github.com/mbaranr) ![ppy](assets/Items/bug.png) - Game idea, art, code.
 * [RedHatParichay](https://github.com/RedHatParichay) - UI code.
 
 ## Screenshots
